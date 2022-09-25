@@ -1,0 +1,710 @@
+#body1{
+	background:gray;
+	margin=0 auto;
+}
+.container{
+	width:1000px;
+	margin:0 auto;
+	background:rgb(232, 226, 226);
+	box-shadow:0px 2px 3px 5px;
+}
+.menu{
+	background:yellow;
+	padding:15px 0 1px ;
+	text-align:center;
+	
+}
+
+#a{
+    background-color: black;
+    color: white;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:14%;
+	border-radius:15px;
+	padding-right:20px;
+	
+}
+#a9{
+    background-color: black;
+    color: #cc0000;
+	font-family: cursive;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:10%;
+	border-radius:15px;
+	padding-right:20px;
+	
+}
+#a10{
+    background-color: black;
+    color: white;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:10%;
+	border-radius:15px;
+	padding-right:20px;
+	margin-top:20px;
+	
+}
+#a1{
+	background-color: white;
+    color: black;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:12%;
+	border-radius:15px;
+	padding-right:20px;
+}
+#a2{
+	background-color: black;
+    color:#008B8B ;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:15%;
+	border-radius:15px;
+	padding-right:20px;
+	margin-top:20px;
+	
+}
+#a3{
+	background-color: black;
+    color:white;
+	font-weight:bold;
+    padding: 14px 0 14px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+	width:12%;
+	border-radius:15px;
+	padding-right:20px;
+	margin-top:20px;
+}
+
+
+#image1{
+	width:50%;
+	float:left;
+}
+#image2{
+	width:50%;
+	
+	
+	
+}
+
+.container1{
+
+	width:500px;
+    margin: 0 auto;
+	margin-top:0px;
+	padding:10px 0 10px;
+	color:white;
+	border-color:black;
+	border-width:7px;
+	border-style:groove;
+    text-align:center;
+	
+	
+}
+.container2{
+
+	width:600px;
+    margin: 0 auto;
+	margin-top:50px;
+	padding:10px 0 10px;
+	color:white;
+	border-radius:20px;
+    
+	
+}
+.container3{
+	width:100%;
+	//background:white;
+	
+    
+}
+.container4{
+	width:450px;
+	margin: 0 auto;
+	background:white;
+	box-shadow:0px 2px 3px 5px;
+}
+.container5{
+	width:450px;
+	margin: 0 auto;
+	height:350px;
+	box-shadow:0px 2px 3px 5px;
+	padding-bottom:20px;
+}
+.container6{
+	width:450px;
+	margin:0 auto;
+	padding-top:10px;
+	height:80px;
+	
+}
+.container7{
+	width:450px;
+	height:200px;
+	padding-top:20px;
+}
+.container8{
+	width:450px;
+	height:200px;
+	
+}
+#user{
+	margin-top:50px;
+}
+#profile_update{
+	height:30px;
+	background:black;
+	color: rgb(237, 229, 229);
+	
+	width:90px;
+	margin-left:15%;
+	border:2px solid white;
+	margin-top:20px;
+	padding-left:10px;
+	border-radius:5px;
+	
+}
+#profile_update:active{
+	transform: translateY(4px);
+}
+#form{
+	margin-left:20px;
+}
+#text1{
+	border-radius:4px;
+	height:30px;
+	width:200px;
+	margin-left:50px;
+	vertical-align:middle;
+	border: 1px solid #ccc;
+	color:white;
+	background-color:black;
+
+}
+#table1{
+	text-align:center;
+	margin-top:0px;
+	border-collapse:collapse;
+	padding-bottom: 10px;
+    padding-top: 20px;
+	padding-left:20px;
+    height: 200px;
+    width: 450px;
+	
+}
+
+
+
+
+#input{
+	
+	
+	margin-left:0px;
+}
+
+#button{
+	height:30px;
+	background:black;
+	color:white;
+	width:20%;
+	border:2px solid black;
+	margin-left:15px;
+	border-radius:8px;
+	border:2px solid white;
+	
+	
+}
+#button:active {
+
+  box-shadow: 0 5px black;
+  transform: translateY(4px);
+}
+.button {
+  padding: 15px 25px;
+  font-size: 18px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  color: black;
+  background-color:white;
+  border:2px solid black;
+  border-radius: 15px;
+  box-shadow: 0 1px black;
+  margin-left:45px;
+  
+}
+
+#table{
+	margin-top:0px;
+	border-collapse:collapse;
+	padding-bottom: 10px;
+    padding-top: 10px;
+    height: 390px;
+    width: 400px;
+}
+
+#text{
+	
+	border-radius:4px;
+	height:30px;
+	width:200px;
+	margin-left:30px;
+	vertical-align:middle;
+	border: 1px solid #ccc;
+	color:black;
+	background-color:white;
+}
+
+#body{
+	background-size:1600px;
+}
+
+#body2{
+	background-size:1300px;
+	
+}
+#info{
+	font-family:courier;
+}
+#info1{
+	margin-right:30px 0 30px;
+	margin-left:30px 0 30px;
+	float:left;
+	
+}
+.menu1{
+	
+	
+	text-align:center;
+	
+}
+.anchor{
+	width:8%;
+}
+#container2{
+	
+	margin:0 auto;
+	
+}
+image3{
+	width:10%;
+	margin-left:30px;
+	float:left;
+}
+image4{
+	width:30%;
+	margin-left:30px;
+	float:left;
+}
+#image5{
+	width:40%;
+	height:70%;
+	margin-left:90px;
+	margin-top:40px;
+	float:left;
+}
+#image6{
+	width:40%;
+	height:70%;
+	margin-left:30px;
+	margin-top:40px;
+	float:left;
+}
+.image3{
+	background-size:cover;
+	height:60%;
+}
+#select {
+width:14%;
+font-weight:bold;
+padding: 14px 0 14px;
+margin-top:8px;
+text-align:center;
+display:inline-block;
+border-radius:15px;
+background-color:black;
+color:white;
+}
+#imagem1{
+	width:20%;
+}
+#button1{
+	height:30px;
+	background:black;
+	color:white;
+	width:9%;
+	margin-top:10px;
+	margin-left:0px;
+	border-radius:8px;
+	border-color:white;
+}
+#button2{
+	height:30px;
+	background:;
+	color:;
+	
+	margin-top:10px;
+	margin-left:0px;
+	border-radius:8px;
+	border:2px solid black;
+}
+
+.book_container{
+	
+	float:left;
+	width:100%;
+	height:550px;
+	margin:1%;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:5px;
+	
+			
+}
+.book1_container{
+	
+	float:left;
+	width:100%;
+	height:450px;
+	margin:1%;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:5px;
+	
+			
+}
+.stationary_container{
+	
+	float:left;
+	width:100%;
+	height:550px;
+	margin:1%;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:5px;
+	
+			
+}
+.book_containers{
+	
+	float:left;
+	width:100%;
+	height:500px;
+	margin:1%;
+	padding-left:20px;
+	padding-top:20px;
+	padding-bottom:20px;
+	border-radius:5px;
+	
+			
+}
+.main_container{
+	
+border:2px;
+height:200px;
+width:100%;
+padding-bottom:20px;
+}
+
+
+
+
+.novels_h1{
+	
+    margin: 0 auto;
+	margin-top:10px;
+	margin-bottom:20px;
+	padding:10px 0 10px;
+	color:rgb(33, 26, 26);
+	border-radius:10px;
+}
+.book_submit{
+	height:30px;
+	background:white;
+	color:solid black;
+	width:15%;
+	border:2px solid white;
+	
+	border-radius:5px;
+}
+.input {
+                max-height: 300px;
+                width: 90%;
+				text-align:center;
+				padding-right:0px;
+				border: 3px solid white;
+            }
+
+#label{
+	
+	color:rgb(254, 250, 250);
+	
+}
+#labe2{
+	
+	color:rgb(254, 250, 250);
+	padding-left:20px;
+	padding-bottom:50px;
+	padding-top:20px;
+	
+	
+}
+#label3{
+	
+	color:white;
+	padding-left:20px;
+	padding-bottom:50px;
+	padding-top:20px;
+	font-family:courier;
+	
+}
+
+.input2 {
+                max-height: 200px;
+                
+				text-align:center;
+				padding-right:2px;
+				border-radius:10px;
+				border: 2px solid black;
+            }
+	
+	   
+    #cart{
+		float:left;
+		width:100%;
+		margin:0 auto;
+		height:75%;
+		color:white;
+		border-color:black;
+		
+	}
+	#cart1{
+		background-color:white;
+		color:black;
+		border-radius:20px;
+		margin-top:20px;
+		height:30px;
+		width:30%;
+		margin-left:190px;
+		
+	}
+	#cart2{
+		
+		
+		float:left;
+		margin:0 auto;
+		height:85%;
+		color:white;
+		border-color:blue;
+		margin-left:40px;
+		
+		
+	}
+	#cart3{
+		
+		width:100%;
+		margin-left:20px;
+		height:95%;
+		text-align:center;
+		
+	}
+   .container9{
+	   width:100%;
+	  height:70%;
+	   
+   }
+   .container10{
+	   width:100%;
+	   
+	   float:left;
+	   
+	   
+   }
+   .container10a{
+	   width:100%;
+	   
+	   
+	   margin-left:300px;
+	   
+   }
+   .container11{
+	   margin-left:20px;
+	   width:80%;
+	  
+	  
+	   
+   }
+   .container12{
+	   width:90%;
+	   height:500px;
+	  margin:0 auto;
+	  margin-top:30px;
+	  box-shadow:0px 2px 3px 5px;
+	  background-color:white;
+	  
+	   
+   }
+   #admin{
+	   color:white;
+	   width:30%;
+	   float:left;
+	   height:200px;
+	   margin-right:40px;
+	   margin-bottom:50px;
+	   
+	   
+   }
+    #admina{
+	   color:white;
+	   width:50%;
+	   float:left;
+	   height:200px;
+	   margin-right:40px;
+	   margin-bottom:50px;
+	   
+	   
+   }
+   #user_delete{
+	  width:50%; 
+	  padding-right:20px;
+	   
+   }
+   .nav{
+	 
+	padding-left:200px;
+	padding-top:20px;
+	padding-bottom:20px;
+	box-shadow:0px 2px 3px 5px white;
+	
+	   
+   }
+   #clear{
+	   width:20%;
+	   height:30px;
+	   background-color:black;
+	   color:white;
+	   margin-left:480px;
+	   border-radius:5px;
+	   margin-bottom:20px;
+   }
+   .creditCardForm{
+	width:550px;
+	height:450px;
+	border:1px solid black;
+	background-color:lightgray;
+	margin:0 auto;
+	margin-left:300px;
+	margin-right:255px;
+	margin-top:50px;
+	margin-bottom:100px;
+	overflow:hidden;
+	padding:25px;
+    color:#4c4e56;
+	border-radius:30px;
+	
+}
+.creditCardForm label{
+	width:100%;
+	margin-bottom:10px;
+}
+.creditCardForm .heading h1{
+	text-align:center;
+	
+	color:#4c4e56;
+}
+.creditCardForrm .payment{
+	float:left;
+	font-size:18px;
+	padding:10px 25px;
+	margin-top:20px;
+	position:relative;
+}
+.creditCardForm .payment .form-group{
+float:left;
+margin-bottom:15px;
+}
+.creditCardForm .payment .form-control{
+	line-height:40px;
+	height:auto;
+	padding:0 16px;
+}
+.creditCardForm .owner{
+	width:63%;
+	margin-right:10px;
+}
+.creditCardForm .CVV{
+	width:35%;
+}
+.creditCardForm #card-number-field{
+	width:100%;
+}
+.creditCardForm #expiration-date{
+	width:49%;
+}
+
+.creditCardForm #pay-now{
+	width:100%;
+	margin-top:25px;
+}
+.creditCardForm .payment .btn{
+	width:100%;
+	margin-top:3px;
+	font-size:24px;
+	background-color:#2ec4a5;
+	color:white;
+	align:center;
+}
+.creditCardForm  .payment select{
+	padding:10px;
+	margin-right:15px;
+}
+.transparent{
+	opacity:0.2;
+}
+	@media(max-width:650px){
+	.creditCardForm .owner,
+	.creditCardForm .CVV,
+	.creditCardForm #expiration-date{
+		width:100%;
+	}
+	
+	}
+#td{
+	background:transparent; 
+	color:white; 
+	text-align:center;
+	border-radius:4px;
+}
+    
+    
+	
+
+
+
+    
+    
+	
+	
+
+
+
+

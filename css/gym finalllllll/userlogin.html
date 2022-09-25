@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>LOGIN</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<script  src="javascript.js">
+ </script>
+<style>
+img.avatar {
+    width: 40%;
+    border-radius: 50%;
+}
+</style>
+</head>
+<body id="body" background="images/userbg.jpg" style="   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;">
+<p><center><h1 style="color:black">USER LOGIN<h1></center></p>
+
+<div class="container1"  >
+ <img src="images/userlogo.jpg" alt="Avatar" class="avatar">
+</br>
+  <form id="myform" action="connect.php" method="post"><b>
+  <div id="input">
+  </br>
+ <label style="color:rgb(237, 221, 221)"> USERNAME</label> <input  id="text"type="textarea" value=""  name="user_name"required></br></br><br/>
+  <label style="color:rgb(237, 218, 218)">PASSWORD</label>  <input id="text"type="password" value="" name="user_pass"required></br></br>
+  </div>
+  <input id="button" style="margin-left:10px" type="submit" name="submit" value="submit">
+  <input id="button" type="button" value="reset" onclick="resetForm()">
+  <input id="button" type="button" value="back" onclick="backForm()"></br>
+  </form>
+ </div>
+</body>
+</html> 

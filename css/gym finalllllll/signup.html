@@ -1,0 +1,55 @@
+<html>
+<head>
+<title>SIGNUP</title>
+<link rel="stylesheet" type="text/css" href="style.css"/>
+<script  src="javascript.js">
+</script>
+</head>
+<body id="body2" background="images/signup.jpg" style="   background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;">
+
+<div class="container2">
+
+<p><center><h1 style="color:rgb(241, 227, 227)">SIGN UP<h1></center></p>
+  
+  <div id="input">
+  <table cellspacing="10" id="table">
+  <form id="myform" name="myform" action="conection.php" method="post"  onsubmit="return validatePassword()"><b>
+  <tr>
+    <td><label id="label"><b> NAME </b></label>
+    <td><input   id="text" type="textfield" value="" align="center" name="name" required></td>
+  </tr>
+  
+  <tr>
+    <td><label id="label"><b> USERNAME </b></label></td>
+	<td><input  id="text" type="textfield" value="" name="username" required></td>
+  </tr>
+  <tr>
+    <td><label id="label"><b> EMAIL-ID</b></label></td>
+    <td><input id="text"type="email" value="" name="email" required></td>
+  </tr>
+  <tr>
+    <td><label id="label"><b> PHONE NUMBER</b></label></td>
+    <td><input id="text"type="textfield" value="" name="phone" required></td>
+  </tr>
+  <tr>
+    <td><label id="label"> <b>PASSWORD</b> </label></td>
+     <td><input  id="text"type="password" value="" name="password" required></td>
+	 <td>&nbsp &nbsp</td>
+  </tr>
+  
+	
+  </table>
+  
+    <input id="button" type="submit" name="submit" value="submit">
+	<input id="button" type="button" value="reset" onclick="resetForm()">
+	<input id="button" type="button" value="back" onclick="backForm()">
+ 
+  
+  </div>
+  
+  </form>
+ </div>
+</body>
+</html> 
